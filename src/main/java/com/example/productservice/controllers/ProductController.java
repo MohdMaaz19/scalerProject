@@ -17,7 +17,7 @@ public class ProductController {
 
     @GetMapping
     public List<Product> getAllProducts(){
-        return new ArrayList<>();git init
+        return new ArrayList<>();
     }
 
     @PostMapping
